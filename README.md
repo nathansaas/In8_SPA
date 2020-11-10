@@ -1,16 +1,12 @@
 # in8_spa
 
-A new Flutter project.
+SPA (Single Page Application)
 
-## Getting Started
+## Intruções para Executar
 
-This project is a starting point for a Flutter application.
+Esse projeto foi desenvolvido ultilizando o FrameWork Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Para executar, é nescessário ter as dependências do Flutter Web Instalada.
+Flutter Web: (https://flutter.dev/docs/get-started/web)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A aplicação pode ser execultada por meio de qualquer editor com suporte para Dart e Flutter.
